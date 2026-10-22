@@ -1,0 +1,218 @@
+[
+  {
+    "field": "id",
+    "label": "岗位ID"
+  },
+  {
+    "field": "city_group",
+    "label": "主岗位池"
+  },
+  {
+    "field": "priority",
+    "label": "投递优先级"
+  },
+  {
+    "field": "company_name",
+    "label": "公司名称"
+  },
+  {
+    "field": "job_title",
+    "label": "岗位名称"
+  },
+  {
+    "field": "resume_family",
+    "label": "推荐简历"
+  },
+  {
+    "field": "fit_score",
+    "label": "匹配分"
+  },
+  {
+    "field": "salary_text",
+    "label": "薪资原口径"
+  },
+  {
+    "field": "annual_total_text",
+    "label": "预计年包说明"
+  },
+  {
+    "field": "company_nature",
+    "label": "公司性质"
+  },
+  {
+    "field": "industry",
+    "label": "公司行业"
+  },
+  {
+    "field": "job_family",
+    "label": "岗位族"
+  },
+  {
+    "field": "recruitment_type",
+    "label": "招聘类型"
+  },
+  {
+    "field": "employment_type",
+    "label": "工作性质"
+  },
+  {
+    "field": "graduation_year",
+    "label": "毕业届别"
+  },
+  {
+    "field": "location_city",
+    "label": "优先城市"
+  },
+  {
+    "field": "location_district",
+    "label": "实际区县"
+  },
+  {
+    "field": "location_text",
+    "label": "完整工作地点"
+  },
+  {
+    "field": "eligible_city_groups",
+    "label": "包含的目标城市组"
+  },
+  {
+    "field": "monthly_low",
+    "label": "月薪下限（元）"
+  },
+  {
+    "field": "monthly_high",
+    "label": "月薪上限（元）"
+  },
+  {
+    "field": "salary_months",
+    "label": "明确薪资月数"
+  },
+  {
+    "field": "annual_total_low",
+    "label": "条件年包下限（元）"
+  },
+  {
+    "field": "annual_total_high",
+    "label": "条件年包上限（元）"
+  },
+  {
+    "field": "benefits_summary",
+    "label": "福利"
+  },
+  {
+    "field": "salary_confidence",
+    "label": "薪资证据等级"
+  },
+  {
+    "field": "salary_source_url",
+    "label": "薪资来源"
+  },
+  {
+    "field": "salary_basis",
+    "label": "薪资口径"
+  },
+  {
+    "field": "fit_label",
+    "label": "匹配标签"
+  },
+  {
+    "field": "score_breakdown",
+    "label": "评分明细"
+  },
+  {
+    "field": "matched_points",
+    "label": "匹配点"
+  },
+  {
+    "field": "gaps",
+    "label": "能力缺口"
+  },
+  {
+    "field": "hard_risks",
+    "label": "硬性风险与确认项"
+  },
+  {
+    "field": "recommendation_reason",
+    "label": "推荐理由"
+  },
+  {
+    "field": "eligibility_evidence",
+    "label": "资格依据"
+  },
+  {
+    "field": "posted_at",
+    "label": "发布时间"
+  },
+  {
+    "field": "deadline",
+    "label": "截止时间"
+  },
+  {
+    "field": "apply_url",
+    "label": "真实投递入口"
+  },
+  {
+    "field": "source_url",
+    "label": "岗位来源"
+  },
+  {
+    "field": "source_type",
+    "label": "来源类型"
+  },
+  {
+    "field": "evidence_urls",
+    "label": "其他核验来源"
+  },
+  {
+    "field": "verified_at",
+    "label": "最后核验日期"
+  },
+  {
+    "field": "is_open",
+    "label": "核验时在招"
+  },
+  {
+    "field": "open_evidence",
+    "label": "在招核验依据"
+  },
+  {
+    "field": "is_favorite",
+    "label": "收藏"
+  },
+  {
+    "field": "notes",
+    "label": "备注"
+  },
+  {
+    "field": "priority_reason",
+    "label": "综合优先级理由"
+  },
+  {
+    "field": "platform_growth_notes",
+    "label": "平台与成长"
+  },
+  {
+    "field": "compensation_assessment",
+    "label": "薪酬评估"
+  },
+  {
+    "field": "opportunity_score",
+    "label": "综合机会分（未校准留空）"
+  },
+  {
+    "field": "opportunity_confidence",
+    "label": "机会评估完整性"
+  },
+  {
+    "field": "compensation_score",
+    "label": "薪酬分（未校准留空）"
+  },
+  {
+    "field": "review_phase",
+    "label": "研究阶段"
+  },
+  {
+    "field": "apply_url_check",
+    "label": "投递入口复查说明"
+  }
+]

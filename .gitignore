@@ -1,0 +1,39 @@
+# Dependencies and generated output
+node_modules/
+dist/
+dist-electron/
+work/
+staging/
+release/
+release-assets/
+.tools/
+*.log
+*.tmp
+
+# Local credentials and personal data
+.env
+.env.*
+!.env.example
+runtime.local.json
+career-board.json
+career-board-owner.json
+career-board-user*.json
+career-board_*.json
+backups/
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.xls
+*.csv
+
+# Build products belong in GitHub Releases
+*.exe
+*.dll
+*.asar
+*.zip
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini

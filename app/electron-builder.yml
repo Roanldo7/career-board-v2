@@ -1,0 +1,29 @@
+appId: cn.personal.careerboard.v2
+productName: 秋招求职看板V2
+asar: true
+npmRebuild: false
+electronVersion: 41.10.3
+directories:
+  buildResources: build-resources
+  output: ../staging/build
+files:
+  - dist/**/*
+  - dist-electron/main.cjs
+  - dist-electron/preload.cjs
+  - package.json
+  - THIRD_PARTY_NOTICES.txt
+  - '!node_modules/**/*'
+extraResources:
+  - from: build-resources/app-icon.ico
+    to: build-resources/app-icon.ico
+win:
+  icon: build-resources/app-icon.ico
+  target:
+    - target: portable
+      arch: [x64]
+  requestedExecutionLevel: asInvoker
+  signExecutable: false
+  signAndEditExecutable: true
+portable:
+  artifactName: 秋招求职看板V2.exe
+  unpackDirName: true
